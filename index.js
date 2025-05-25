@@ -1,1 +1,1 @@
-"console.log('Hello from Jenkins 123!');" 
+console.log('Hello from Jenkins 123!');
